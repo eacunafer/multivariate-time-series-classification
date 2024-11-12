@@ -1,2 +1,5 @@
 # multivariate-time-series-classification
-Comparing algorithms for classification of multivariate time series using visualization
+This repository contains notebooks used in the paper
+"Using visualization to evaluate the Performance of Algorithms for Multivariate Time Series Classification" by 
+Edgar Acuña  and Roxana Aparicio 
+
